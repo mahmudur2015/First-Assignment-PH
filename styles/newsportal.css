@@ -159,7 +159,7 @@ body {
     justify-content: space-between;
     gap: 56px;
     margin: 117px 60px;
-
+overflow: hidden;
 }
 
 .banner-content {
